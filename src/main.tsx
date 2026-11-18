@@ -127,7 +127,7 @@ function App() {
     </header>
     <main>
       <section className="intro" aria-labelledby="page-title">
-        <h1 id="page-title">Find what changed between two CSV exports.</h1>
+        <h1 id="page-title">Compare CSV exports.</h1>
         <p>Match rows by a key, inspect field changes, and keep the files in your browser. The example below uses fictional records.</p>
       </section>
 
